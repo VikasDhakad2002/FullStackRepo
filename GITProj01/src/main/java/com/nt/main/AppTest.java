@@ -12,5 +12,5 @@ public class AppTest{
 		System.out.println("mul:"+ar.mul(100, 300));//456
 
 	}
-
+ 
 }
